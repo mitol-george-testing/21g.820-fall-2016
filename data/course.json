@@ -1,0 +1,41 @@
+{
+  "level": "Undergraduate",
+  "topics": [
+    [
+      "Fine Arts",
+      "Music",
+      "Music History"
+    ],
+    [
+      "Humanities",
+      "History",
+      "Latin American History"
+    ],
+    [
+      "Humanities",
+      "Language",
+      "Portuguese"
+    ],
+    [
+      "Society",
+      "Latin and Caribbean Studies"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "887ed2cd-affd-ce43-9ebc-c6d193b60af2"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "The Beat of Brazil: Brazilian Society Through Its Music",
+  "course_description": "This course will present students with an overview of Brazilian popular music, from the late nineteenth century to the present day. Considered an advanced course, it aims to build vocabulary competence and improve oral communication through the study and discussion of topics about cultural aspects and current issues in Brazil. It is designed to give students extensive experience in Portuguese and emphasizes skill development and refinement in the area of critical reading and writing in Portuguese.\n",
+  "department_numbers": [
+    "21G"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "21G.820",
+  "learning_resource_types": [
+    "Written Assignments"
+  ],
+  "title": "Course Metadata"
+}
